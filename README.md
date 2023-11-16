@@ -17,3 +17,10 @@
 - Root Directory
   - Browse, find the project folder your saved on your local machine
     ![Original Files](https://github.com/zhuoww/Microservices/blob/main/img/original%20files.png?raw=true)
+    - **Maven Structure Project**
+      - src/main/java: has the source code
+      - src/main/resources: has all your configuration
+      - src/test/java: where you'd try your unit tests
+      - pom.xml: where you define your dependencies
+
+###
