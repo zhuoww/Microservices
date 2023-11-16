@@ -31,3 +31,5 @@
   - right click, run as, Java Application
 
 ### Creating a HelloWorld REST API with Spring Boot
+
+![hello world controller](https://github.com/zhuoww/Microservices/blob/main/img/helloworldcontroller.png?raw=true)
