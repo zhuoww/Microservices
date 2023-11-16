@@ -2,14 +2,14 @@
 
 ## Initializing a REST API project with Spring Boot
 
-### Setup REST API project
+### Create a Spring Boot project using Spring Initializr
 
 ![Spring Initializr](https://github.com/zhuoww/Microservices/blob/main/img/spring%20initializr.png?raw=true)
 
 - genetate
 - extract that ZIP file to a folder on your local machine
 
-### Import Project using Eclipse
+### Import Project into IDE Eclipse
 
 - Import projects in Project Explorer
 - Select an import wizard
@@ -23,8 +23,11 @@
       - src/test/java: where you'd try your unit tests
       - pom.xml: where you define your dependencies
 
-### Create Project
+### Launch up the Project
 
 ![create project](https://github.com/zhuoww/Microservices/blob/main/img/Create%20Project.png?raw=true)
 
 - RestfulWebServicesApplication.java: use to launch up the Spring Boot application
+  - right click, run as, Java Application
+
+### Creating a HelloWorld REST API with Spring Boot
