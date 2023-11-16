@@ -16,3 +16,4 @@
   - Existing Maven Project
 - Root Directory
   - Browse, find the project folder your saved on your local machine
+    ![Original Files](https://github.com/zhuoww/Microservices/blob/main/img/original%20files.png?raw=true)
