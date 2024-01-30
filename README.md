@@ -41,3 +41,9 @@
 ### Creating a HelloWorld REST API with Spring Boot
 
 ![hello world controller](https://github.com/zhuoww/Microservices/blob/main/img/helloworldcontroller.png?raw=true)
+
+- `http://localhost:8080/hello-world`
+
+### Tips
+
+- JSON Formatter Extension
